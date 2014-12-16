@@ -4,15 +4,17 @@ div{
     padding: 30px;
 }
 
-/*This class that adjusts the margin of the items to look nice*/ 
-.list-group-item {
-    border: 0;
-    margin-top: 30px;
-    margin-bottom: 30px;
+body {
+    background-image: url(http://www.sgaccounting.gg/wp-content/uploads/2014/09/47393-abstract-blue-background-blue-abstract-light-effect-1024768-no31.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-size: 16px;
 }
 
-
-/*A class to increase the size of the font of the title on each page*/
 .title {
     font-size: 38px;
+}
+
+.ss {
+    font-size: 30px;
 }
